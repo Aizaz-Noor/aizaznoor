@@ -16,7 +16,7 @@
 - 🐧 **Ubuntu Linux** is my Habitual OS
 - 🚀 Exploring ways to build scalable **SaaS** products
 - 🌱 Continuously improving my problem-solving skills and mastering data structures
-- 📫 Reach me at **[Your Email Here]**
+- 📫 Reach me at **aizaznoorkhuwaja@gmail.com**
 
 ---
 
