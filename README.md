@@ -5,9 +5,8 @@
 </a>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=aizaz_khuwaja&label=Profile%20views&color=0891b2&style=for-the-badge" alt="profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Aizaz-Noor&label=Profile%20views&color=0891b2&style=for-the-badge" alt="profile views" /> 
 </p>
-
 ---
 
 ### 👨‍💻 About Me
