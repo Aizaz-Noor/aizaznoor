@@ -32,7 +32,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 🕹️**Newton's Glitch:** A custom Flappy Bird clone developed using Java and JavaFX.
+- 🕹️**Newton's Glitch:** A custom Flappy inspired Gravity following Character Passing through the Objects Java and JavaFX.
 
 ---
 
