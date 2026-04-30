@@ -73,8 +73,6 @@
 
 ### GitHub Stats
 
-### GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aizaz-Noor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=06b6d4&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" height="170"/>
   &nbsp;
