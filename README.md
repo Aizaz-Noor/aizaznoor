@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Main Skills
+###  Main Skills
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -51,7 +51,7 @@
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-### 💻 Coding Profiles
+### Coding Profiles
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -117,7 +117,7 @@
 
 ---
 
-### 💼 Employer?
+### Employer?
 
 > [!IMPORTANT]
 > **[📄 My Resume](./Aizaz_Noor_cv.pdf)**
