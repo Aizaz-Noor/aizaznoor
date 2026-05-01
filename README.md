@@ -122,12 +122,12 @@
 > [!IMPORTANT]
 > **[📄 My Resume](./Aizaz_Noor_cv.pdf)**
 >
-> *Available for internships and entry-level positions — I respond within 24 hours!*
+> *Available for internships and entry-level positions I respond within 24 hours!*
 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&reversal=true" alt="footer"/>
 
 <div align="center">
-  <i>From <a href="https://github.com/Aizaz-Noor">Aizaz Noor Khuwaja</a> — Let's connect and build something amazing!</i>
+  <i>From <a href="https://github.com/Aizaz-Noor">Aizaz Noor Khuwaja</a> Let's connect and build something amazing!</i>
 </div>
