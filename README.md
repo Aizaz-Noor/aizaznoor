@@ -1,15 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aizaz%20Noor%20Khuwaja&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20ML%20Enthusiast&descAlignY=65&descSize=18&descColor=a5f3fc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aizaz%20Noor%20Khuwaja&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20CLI%20Tools%20%E2%80%A2%20AI%20Enthusiast&descAlignY=65&descSize=18&descColor=a5f3fc" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Aizaz+%F0%9F%91%8B;SE+Student+%40+COMSATS+University+%F0%9F%8E%93;Building+SaaS+Products+that+Matter+%F0%9F%9A%80;MLSA+Ambassador+%7C+ACM+Member+%F0%9F%94%97;Obsessed+with+Clean%2C+Functional+Code+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hey!+I'm+Aizaz+%F0%9F%91%8B;SE+Student+%40+COMSATS+University+Lahore+%F0%9F%8E%93;Builder+of+ANK-CINEMA+%E2%80%94+a+real+CLI+tool+%F0%9F%8E%AC;Creator+of+Agent-Startup-Skills+%F0%9F%A4%96;MLSA+Ambassador+%7C+ACM+Member+%7C+Linux+Nerd+%F0%9F%90%A7;Learning+in+Public+%E2%80%94+Building+in+Real+Life+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Aizaz-Noor&label=Profile+Views&color=0891b2&style=for-the-badge)](https://github.com/Aizaz-Noor)
 [![GitHub followers](https://img.shields.io/github/followers/Aizaz-Noor?label=Followers&style=for-the-badge&color=0891b2&labelColor=0d1117)](https://github.com/Aizaz-Noor?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Aizaz-Noor?label=Total%20Stars&style=for-the-badge&color=38bdf8&labelColor=0d1117)](https://github.com/Aizaz-Noor)
 
 </div>
 
@@ -22,16 +23,18 @@ class AizazNoor:
     def __init__(self):
         self.name        = "Aizaz Noor Khuwaja"
         self.role        = "Software Engineering Student"
-        self.university  = "COMSATS University Islamabad (Lahore Campus)"
-        self.batch       = "2025 – 2029"
+        self.university  = "COMSATS University Islamabad — Lahore Campus"
+        self.batch       = "Feb 2025 – Feb 2029"
         self.location    = "Lahore, Punjab 🇵🇰"
-        self.os          = "Ubuntu Linux 🐧"
-        self.focus       = ["SaaS Products", "DSA", "OOP", "ML & Simulation"]
-        self.communities = ["MLSA Ambassador 🎖️", "ACM Member CUI Lahore 🏛️"]
-        self.goal        = "Build SaaS solutions that solve real-world problems"
+        self.os          = "Ubuntu Linux 🐧  (daily driver)"
+        self.editor      = "Vim"
+        self.focus       = ["CLI Tools", "SaaS Products", "AI Agents", "DSA", "OOP"]
+        self.communities = ["MLSA Ambassador 🎖️", "ACM Member — CUI Lahore 🏛️"]
+        self.shipped     = ["ANK-CINEMA v3.0.1 🎬", "Agent-Startup-Skills v1.1.6 🤖"]
+        self.philosophy  = "Ship real things. Learn in public. Build what matters."
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Thanks for stopping by — let's build something real 🚀")
 
 me = AizazNoor()
 me.say_hi()
@@ -39,45 +42,95 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Featured Projects
 
-<div align="center">
+> These are real, shipped projects — not just coursework.
 
-### 💻 Languages
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+<br/>
 
-### 🖼️ Frameworks & Tools
-[![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)](https://openjfx.io)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aizaz-Noor)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://gnu.org/software/bash)
-[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://vim.org)
+### 🎬 ANK-CINEMA &nbsp; [![Stars](https://img.shields.io/github/stars/Aizaz-Noor/ANK-CINEMA?style=flat-square&color=38bdf8)](https://github.com/Aizaz-Noor/ANK-CINEMA) [![Release](https://img.shields.io/badge/release-v3.0.1-blue?style=flat-square)](https://github.com/Aizaz-Noor/ANK-CINEMA/releases) [![CI](https://github.com/Aizaz-Noor/ANK-CINEMA/actions/workflows/ci.yml/badge.svg)](https://github.com/Aizaz-Noor/ANK-CINEMA/actions)
 
-### 📚 Concepts
-![OOP](https://img.shields.io/badge/OOP-blueviolet?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-0891b2?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-06b6d4?style=for-the-badge)
-![Digital Logic Design](https://img.shields.io/badge/DLD-0d9488?style=for-the-badge)
-![CLI](https://img.shields.io/badge/CLI-gray?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-orange?style=for-the-badge)
+> **Cross-platform terminal downloader — one double-click from zero to downloading.**
 
-</div>
+A production-grade Python CLI tool with parallel multi-source torrent search (TPB + TGX via `ThreadPoolExecutor`), magnet enrichment with 16 trackers, smart startup diagnostics, self-healing DNS on Linux, remote auto-updater, and a portable bootstrapper that never touches your system Python. Tested across 9 platform+Python matrix combinations in CI.
+
+```
+Parallel Search → Dedup by info-hash → Magnet Enrichment → aria2c Download
+```
+
+**Tech:** `Python 3.8+` `Rich` `requests` `aria2c` `ThreadPoolExecutor` `PyInstaller` `pytest` `ruff` `GitHub Actions`  
+**Platforms:** Windows · Linux · macOS &nbsp;|&nbsp; **18 unit tests** · **32 commits** · **MIT license**
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aizaz-Noor/ANK-CINEMA)
 
 ---
 
-## 🚀 Featured Projects
+### 🤖 Agent-Startup-Skills &nbsp; [![Stars](https://img.shields.io/github/stars/Aizaz-Noor/Agent-Startup-Skills?style=flat-square&color=38bdf8)](https://github.com/Aizaz-Noor/Agent-Startup-Skills)
+
+> **An 8-phase AI agent pipeline for building SaaS products — with mandatory human approval gates.**
+
+A modular framework that turns Claude Code, Codex, or Antigravity into a "Digital Team" of 8 specialist personas (Market Scout → MVP Scoper → System Architect → Schema Designer → Fullstack Coder → Test Engineer → Security Auditor → Deploy Planner). Each phase requires explicit approval — keeping humans in control. Install with a single `npx` command.
+
+```
+Market Research → MVP Scope → Architecture → Schema → Code → QA → Security Audit → Deploy
+```
+
+**Tech:** `JavaScript` `Node.js` `npx` `Claude Code` `Codex` `Antigravity` `LangGraph` `YAML`  
+**Highlights:** OWASP security audit phase · machine-readable `workflows.json` · MIT license
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aizaz-Noor/Agent-Startup-Skills)
+
+---
+
+### 🎮 Newton's Glitch &nbsp; `JavaFX`
+
+> **Flappy Bird meets Newtonian physics — custom character, real gravity simulation.**
+
+Built with JavaFX and OOP. Custom physics engine, game-loop architecture, smooth UI. Taught me more about object-oriented design than any textbook.
+
+**Tech:** `Java` `JavaFX` `OOP` `Game Loop`
+
+---
+
+### 🏠 Hostel Kharcha Manager &nbsp; `DSA Semester Project`
+
+> **Expense tracking for hostel students — data structures doing real-world work.**
+
+CLI-based expense manager using efficient data structures (linked lists, trees) to manage and query student expenses. Built as a DSA semester project at COMSATS.
+
+**Tech:** `Java/Python` `DSA` `CLI`
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🔧 Tech Stack | 🔗 Link |
-|:----------:|:--------------|:-------------:|:-------:|
-| 🎮 **Newton's Glitch** | A Flappy Bird-inspired game where a custom character obeys Newtonian gravity and phases through objects. Deep dive into OOP & UI design. | `Java` `JavaFX` `OOP` | [View →](https://github.com/Aizaz-Noor) |
-| 🏠 **Hostel Kharcha Manager** | DSA Semester Project — expense management system for hostel students with efficient data structures under the hood. | `Python/Java` `DSA` `CLI` | [View →](https://github.com/Aizaz-Noor) |
-| 🐍 **Console Snake Game** | My coding origin story — a console-based Snake game that started the whole journey. Built from scratch in C++. | `C++` `OOP` `Game Logic` | [View →](https://github.com/Aizaz-Noor) |
+### Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://gnu.org/software/bash)
+
+### Tools & Environment
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![PyInstaller](https://img.shields.io/badge/PyInstaller-336791?style=for-the-badge&logo=python&logoColor=white)](https://pyinstaller.org)
+[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://vim.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+
+### Concepts & Interests
+![CLI Tools](https://img.shields.io/badge/CLI%20Tools-gray?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-blueviolet?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures-0891b2?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-orange?style=for-the-badge)
+![P2P / BitTorrent](https://img.shields.io/badge/P2P%20%2F%20BitTorrent-06b6d4?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8b5cf6?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+![DLD](https://img.shields.io/badge/DLD-0d9488?style=for-the-badge)
 
 </div>
 
@@ -117,12 +170,12 @@ me.say_hi()
 
 ## 💼 Experience & Community
 
-| 🏢 Organization | 🎭 Role | 📅 Duration |
-|:---------------:|:-------:|:-----------:|
-| 🌐 **Fiverr** | SaaS AI Integration | Dec 2025 – Jan 2026 |
-| 🎖️ **MLSA CUI Lahore** | Video Editor | Feb – Jun 2024 |
-| 🏛️ **ACM Student Chapter CUI** | Student Activities Coordinator | Feb – Jun 2024 |
-| 🎬 **Trivision** | Video Editor | Jan 2023 – Jul 2024 |
+| 🏢 | Role | Duration |
+|:---:|:-----|:--------:|
+| 🌐 **Fiverr** | SaaS AI Integration — helped startups integrate AI into their products | Dec 2025 – Jan 2026 |
+| 🎖️ **MLSA CUI Lahore** | Video Editor — content for a 1000+ member tech community | Feb – Jun 2024 |
+| 🏛️ **ACM Student Chapter CUI** | Student Activities Coordinator — 404 Squad & Event Emperors | Feb – Jun 2024 |
+| 🎬 **Trivision** | Video Editor — CapCut, KineMaster, Pixellab, PicsArt | Jan 2023 – Jul 2024 |
 
 ---
 
@@ -130,8 +183,8 @@ me.say_hi()
 
 <div align="center">
 
-![Web Nexus Front End](https://img.shields.io/badge/Web%20Nexus-Front%20End%20Edition-0891b2?style=for-the-badge&logo=html5&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Certifications-4285F4?style=for-the-badge&logo=google&logoColor=white)
+[![Web Nexus](https://img.shields.io/badge/Web%20Nexus-Front%20End%20Edition-0891b2?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![Google](https://img.shields.io/badge/Google-Certifications-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
 
 </div>
 
@@ -148,7 +201,7 @@ me.say_hi()
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <div align="center">
 
@@ -161,12 +214,13 @@ me.say_hi()
 
 ---
 
-> 💡 *"First, solve the problem. Then, write the code."* — John Johnson
-
 <div align="center">
 
+> *"Don't just learn how things work. Build something that proves you know."*
+
 ### 👔 Open to Internships & Entry-Level Roles
-**I respond within 24 hours!** → [aizaznoorkhuwaja@gmail.com](mailto:aizaznoorkhuwaja@gmail.com)
+**Available for SaaS, backend, CLI, or AI-adjacent work — I respond within 24 hours.**  
+→ [aizaznoorkhuwaja@gmail.com](mailto:aizaznoorkhuwaja@gmail.com)
 
 </div>
 
@@ -175,5 +229,5 @@ me.say_hi()
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=true" alt="footer"/>
 
 <div align="center">
-  <sub>⚡ Made with passion by <a href="https://github.com/Aizaz-Noor">Aizaz Noor Khuwaja</a> — Let's connect and build something amazing!</sub>
+  <sub>⚡ <a href="https://github.com/Aizaz-Noor">Aizaz Noor Khuwaja</a> — Lahore, Pakistan 🇵🇰 — Building real things, one commit at a time.</sub>
 </div>
