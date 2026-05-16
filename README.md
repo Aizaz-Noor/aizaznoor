@@ -48,7 +48,7 @@ me.say_hi()
 
 <br/>
 
-### 🎬 ANK-CINEMA &nbsp; [![Stars](https://img.shields.io/github/stars/Aizaz-Noor/ANK-CINEMA?style=flat-square&color=38bdf8)](https://github.com/Aizaz-Noor/ANK-CINEMA) [![Release](https://img.shields.io/badge/release-v3.0.1-blue?style=flat-square)](https://github.com/Aizaz-Noor/ANK-CINEMA/releases) [![CI](https://github.com/Aizaz-Noor/ANK-CINEMA/actions/workflows/ci.yml/badge.svg)](https://github.com/Aizaz-Noor/ANK-CINEMA/actions)
+### ANK-CINEMA &nbsp; [![Stars](https://img.shields.io/github/stars/Aizaz-Noor/ANK-CINEMA?style=flat-square&color=38bdf8)](https://github.com/Aizaz-Noor/ANK-CINEMA) [![Release](https://img.shields.io/badge/release-v3.0.1-blue?style=flat-square)](https://github.com/Aizaz-Noor/ANK-CINEMA/releases) [![CI](https://github.com/Aizaz-Noor/ANK-CINEMA/actions/workflows/ci.yml/badge.svg)](https://github.com/Aizaz-Noor/ANK-CINEMA/actions)
 
 > **Cross-platform terminal downloader  one double-click from zero to downloading.**
 
@@ -65,11 +65,11 @@ Parallel Search → Dedup by info-hash → Magnet Enrichment → aria2c Download
 
 ---
 
-### 🤖 Agent-Startup-Skills &nbsp; [![Stars](https://img.shields.io/github/stars/Aizaz-Noor/Agent-Startup-Skills?style=flat-square&color=38bdf8)](https://github.com/Aizaz-Noor/Agent-Startup-Skills)
+### Agent-Startup-Skills &nbsp; [![Stars](https://img.shields.io/github/stars/Aizaz-Noor/Agent-Startup-Skills?style=flat-square&color=38bdf8)](https://github.com/Aizaz-Noor/Agent-Startup-Skills)
 
-> **An 8-phase AI agent pipeline for building SaaS products — with mandatory human approval gates.**
+> **An 8-phase AI agent pipeline for building SaaS products with mandatory human approval gates.**
 
-A modular framework that turns Claude Code, Codex, or Antigravity into a "Digital Team" of 8 specialist personas (Market Scout → MVP Scoper → System Architect → Schema Designer → Fullstack Coder → Test Engineer → Security Auditor → Deploy Planner). Each phase requires explicit approval — keeping humans in control. Install with a single `npx` command.
+A modular framework that turns Claude Code, Codex, or Antigravity into a "Digital Team" of 8 specialist personas (Market Scout → MVP Scoper → System Architect → Schema Designer → Fullstack Coder → Test Engineer → Security Auditor → Deploy Planner). Each phase requires explicit approval keeping humans in control. Install with a single `npx` command.
 
 ```
 Market Research → MVP Scope → Architecture → Schema → Code → QA → Security Audit → Deploy
@@ -82,7 +82,7 @@ Market Research → MVP Scope → Architecture → Schema → Code → QA → Se
 
 ---
 
-### 🎮 Newton's Glitch &nbsp; `JavaFX`
+### Newton's Glitch &nbsp; `JavaFX`
 
 > **Flappy Bird meets Newtonian physics custom character, real gravity simulation.**
 
@@ -92,7 +92,7 @@ Built with JavaFX and OOP. Custom physics engine, game-loop architecture, smooth
 
 ---
 
-### 🏠 Hostel Kharcha Manager &nbsp; `DSA Semester Project`
+### Hostel Kharcha Manager &nbsp; `DSA Semester Project`
 
 > **Expense tracking for hostel students data structures doing real-world work.**
 
