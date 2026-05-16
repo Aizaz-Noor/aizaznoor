@@ -26,15 +26,15 @@ class AizazNoor:
         self.university  = "COMSATS University Islamabad — Lahore Campus"
         self.batch       = "Feb 2025 – Feb 2029"
         self.location    = "Lahore, Punjab 🇵🇰"
-        self.os          = "Ubuntu Linux 🐧  (daily driver)"
+        self.os          = "Ubuntu Linux "
         self.editor      = "Vim"
         self.focus       = ["CLI Tools", "SaaS Products", "AI Agents", "DSA", "OOP"]
-        self.communities = ["MLSA Ambassador 🎖️", "ACM Member — CUI Lahore 🏛️"]
-        self.shipped     = ["ANK-CINEMA v3.0.1 🎬", "Agent-Startup-Skills v1.1.6 🤖"]
+        self.communities = ["MLSA Ambassador ", "ACM Member — CUI Lahore "]
+        self.shipped     = ["ANK-CINEMA v3.0.1 ", "Agent-Startup-Skills v1.1.6 "]
         self.philosophy  = "Ship real things. Learn in public. Build what matters."
 
     def say_hi(self):
-        print("Thanks for stopping by — let's build something real 🚀")
+        print("Thanks for stopping by let's build something real 🚀")
 
 me = AizazNoor()
 me.say_hi()
@@ -50,7 +50,7 @@ me.say_hi()
 
 ### 🎬 ANK-CINEMA &nbsp; [![Stars](https://img.shields.io/github/stars/Aizaz-Noor/ANK-CINEMA?style=flat-square&color=38bdf8)](https://github.com/Aizaz-Noor/ANK-CINEMA) [![Release](https://img.shields.io/badge/release-v3.0.1-blue?style=flat-square)](https://github.com/Aizaz-Noor/ANK-CINEMA/releases) [![CI](https://github.com/Aizaz-Noor/ANK-CINEMA/actions/workflows/ci.yml/badge.svg)](https://github.com/Aizaz-Noor/ANK-CINEMA/actions)
 
-> **Cross-platform terminal downloader — one double-click from zero to downloading.**
+> **Cross-platform terminal downloader  one double-click from zero to downloading.**
 
 A production-grade Python CLI tool with parallel multi-source torrent search (TPB + TGX via `ThreadPoolExecutor`), magnet enrichment with 16 trackers, smart startup diagnostics, self-healing DNS on Linux, remote auto-updater, and a portable bootstrapper that never touches your system Python. Tested across 9 platform+Python matrix combinations in CI.
 
@@ -172,10 +172,10 @@ CLI-based expense manager using efficient data structures (linked lists, trees) 
 
 | 🏢 | Role | Duration |
 |:---:|:-----|:--------:|
-| 🌐 **Fiverr** | SaaS AI Integration — helped startups integrate AI into their products | Dec 2025 – Jan 2026 |
-| 🎖️ **MLSA CUI Lahore** | Video Editor — content for a 1000+ member tech community | Feb – Jun 2024 |
-| 🏛️ **ACM Student Chapter CUI** | Student Activities Coordinator — 404 Squad & Event Emperors | Feb – Jun 2024 |
-| 🎬 **Trivision** | Video Editor — CapCut, KineMaster, Pixellab, PicsArt | Jan 2023 – Jul 2024 |
+| 🌐 **Fiverr** | SaaS AI Integration  helped startups integrate AI into their products | Dec 2025 – Jan 2026 |
+| 🎖️ **MLSA CUI Lahore** | Video Editor  content for a 1000+ member tech community | Feb – Jun 2024 |
+| 🏛️ **ACM Student Chapter CUI** | Student Activities Coordinator 404 Squad & Event Emperors | Feb – Jun 2024 |
+| 🎬 **Trivision** | Video Editor CapCut, KineMaster, Pixellab, PicsArt | Jan 2023 – Jul 2024 |
 
 ---
 
@@ -219,7 +219,7 @@ CLI-based expense manager using efficient data structures (linked lists, trees) 
 > *"Don't just learn how things work. Build something that proves you know."*
 
 ### 👔 Open to Internships & Entry-Level Roles
-**Available for SaaS, backend, CLI, or AI-adjacent work — I respond within 24 hours.**  
+**Available for SaaS, backend, CLI, or AI-adjacent work I respond within 24 hours.**  
 → [aizaznoorkhuwaja@gmail.com](mailto:aizaznoorkhuwaja@gmail.com)
 
 </div>
@@ -229,5 +229,5 @@ CLI-based expense manager using efficient data structures (linked lists, trees) 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=true" alt="footer"/>
 
 <div align="center">
-  <sub>⚡ <a href="https://github.com/Aizaz-Noor">Aizaz Noor Khuwaja</a> — Lahore, Pakistan 🇵🇰 — Building real things, one commit at a time.</sub>
+  <sub>⚡ <a href="https://github.com/Aizaz-Noor">Aizaz Noor Khuwaja</a> Building real things, one commit at a time.</sub>
 </div>
