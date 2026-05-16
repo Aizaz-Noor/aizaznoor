@@ -44,7 +44,7 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-> These are real, shipped projects — not just coursework.
+> These are real, shipped projects not just coursework.
 
 <br/>
 
@@ -84,7 +84,7 @@ Market Research → MVP Scope → Architecture → Schema → Code → QA → Se
 
 ### 🎮 Newton's Glitch &nbsp; `JavaFX`
 
-> **Flappy Bird meets Newtonian physics — custom character, real gravity simulation.**
+> **Flappy Bird meets Newtonian physics custom character, real gravity simulation.**
 
 Built with JavaFX and OOP. Custom physics engine, game-loop architecture, smooth UI. Taught me more about object-oriented design than any textbook.
 
@@ -94,7 +94,7 @@ Built with JavaFX and OOP. Custom physics engine, game-loop architecture, smooth
 
 ### 🏠 Hostel Kharcha Manager &nbsp; `DSA Semester Project`
 
-> **Expense tracking for hostel students — data structures doing real-world work.**
+> **Expense tracking for hostel students data structures doing real-world work.**
 
 CLI-based expense manager using efficient data structures (linked lists, trees) to manage and query student expenses. Built as a DSA semester project at COMSATS.
 
